@@ -180,16 +180,16 @@
             "url": "https://raw.githubusercontent.com/CubicLauncherDevs/Themes/refs/heads/master/src/4xnl/cherry/V1/Meta.toml"
           },
           {
-            "name": "showcase.png",
-            "url": "https://themes.cubiclauncher.org/src/4xnl/cherry/V1/showcase.bad6d1cc.png"
-          },
-          {
             "name": "bg.jpg",
             "url": "https://themes.cubiclauncher.org/src/4xnl/cherry/V1/bg.a8c97100.jpg"
           },
           {
             "name": "preview.png",
             "url": "https://themes.cubiclauncher.org/src/4xnl/cherry/V1/preview.58513513.png"
+          },
+          {
+            "name": "showcase.png",
+            "url": "https://themes.cubiclauncher.org/src/4xnl/cherry/V1/showcase.bad6d1cc.png"
           }
         ],
         "injectsCss": true
@@ -1031,6 +1031,52 @@
     "latestVersion": "V1",
     "previewUrl": "https://themes.cubiclauncher.org/src/Notstaff/chill/V1/preview.23807eaa.png",
     "date": "2026-07-24T00:00:59-04:00"
+  },
+  {
+    "id": "notstaff-windows7",
+    "slug": "notstaff-windows7",
+    "name": "Windows 7 Aero",
+    "author": "Notstaff",
+    "tags": [],
+    "dirPath": "src/Notstaff/windows7",
+    "description": "# Windows 7 Aero\n\nTema para CubicLauncher inspirado en la interfaz **Aero Glass de Windows 7**.\n\n## Características\n\n- Fondo clásico visible: el wallpaper de Windows 7 se muestra sin blur y al 100% de opacidad.\n- Paleta unificada: todos los colores derivan de la paleta oficial Aero de Windows 7, sin tonos azul/turquesa mezclados.\n- Estilo Aero Glass: ventanas con gradientes azul oscuro, borde cian claro y sombras coherentes.\n- Reflejo superior característico: highlight horizontal en la parte alta de la sidebar, tooltips y cards, imitando el brillo de la barra de tareas de Windows 7.\n- Sidebar tipo barra de tareas: gradiente azul oscuro con backdrop-filter y borde iluminado.\n- Botones estilo Win7: degradado con reflejo superior, sombra suave y estados hover/active.\n- Scrollbar minimalista: ancho 7px con thumb azul Aero y borde sutil.\n- Fuente Segoe UI: la tipografía original del sistema.\n- Transiciones suaves: cambios de color y pequeños desplazamientos en botones con animaciones cortas.\n- Estructura sólida: CSS basado en el tema Angel para compatibilidad con los componentes del launcher.\n",
+    "verified": true,
+    "versions": [
+      {
+        "version": "V1",
+        "previewUrl": "https://themes.cubiclauncher.org/src/Notstaff/windows7/V1/preview.99e31754.png",
+        "showcaseUrl": null,
+        "dirPath": "src/Notstaff/windows7/V1",
+        "date": "2026-08-09T15:03:17-06:00",
+        "changelog": null,
+        "files": [
+          {
+            "name": "Definition.toml",
+            "url": "https://raw.githubusercontent.com/CubicLauncherDevs/Themes/refs/heads/master/src/Notstaff/windows7/V1/Definition.toml"
+          },
+          {
+            "name": "Inject.css",
+            "url": "https://raw.githubusercontent.com/CubicLauncherDevs/Themes/refs/heads/master/src/Notstaff/windows7/V1/Inject.css"
+          },
+          {
+            "name": "Meta.toml",
+            "url": "https://raw.githubusercontent.com/CubicLauncherDevs/Themes/refs/heads/master/src/Notstaff/windows7/V1/Meta.toml"
+          },
+          {
+            "name": "bg.png",
+            "url": "https://themes.cubiclauncher.org/src/Notstaff/windows7/V1/bg.491d105e.png"
+          },
+          {
+            "name": "preview.png",
+            "url": "https://themes.cubiclauncher.org/src/Notstaff/windows7/V1/preview.99e31754.png"
+          }
+        ],
+        "injectsCss": true
+      }
+    ],
+    "latestVersion": "V1",
+    "previewUrl": "https://themes.cubiclauncher.org/src/Notstaff/windows7/V1/preview.99e31754.png",
+    "date": "2026-08-09T15:03:17-06:00"
   },
   {
     "id": "santiagolxx-angel",
