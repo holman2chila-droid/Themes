@@ -979,6 +979,48 @@
     "date": "2026-07-24T00:00:59-04:00"
   },
   {
+    "id": "notstaff-northern-mist",
+    "slug": "notstaff-northern-mist",
+    "name": "Northern Mist",
+    "author": "Notstaff",
+    "tags": [],
+    "dirPath": "src/Notstaff/Northern_Mist",
+    "description": "# Northern Mist\n\nUn tema minimalista y refinado inspirado en la naturaleza, con superficies en tonos salvia suaves, profundidad brumosa, contraste moderado y un estilo de interfaz de usuario flotante y coherente.",
+    "verified": true,
+    "versions": [
+      {
+        "version": "V1",
+        "previewUrl": "https://themes.cubiclauncher.org/src/Notstaff/Northern_Mist/V1/preview.34a29ac7.png",
+        "showcaseUrl": null,
+        "dirPath": "src/Notstaff/Northern_Mist/V1",
+        "date": "2026-08-22T18:51:33-06:00",
+        "changelog": null,
+        "files": [
+          {
+            "name": "Definition.toml",
+            "url": "https://raw.githubusercontent.com/CubicLauncherDevs/Themes/refs/heads/master/src/Notstaff/Northern_Mist/V1/Definition.toml"
+          },
+          {
+            "name": "Meta.toml",
+            "url": "https://raw.githubusercontent.com/CubicLauncherDevs/Themes/refs/heads/master/src/Notstaff/Northern_Mist/V1/Meta.toml"
+          },
+          {
+            "name": "bg.jpg",
+            "url": "https://themes.cubiclauncher.org/src/Notstaff/Northern_Mist/V1/bg.84e448d0.jpg"
+          },
+          {
+            "name": "preview.png",
+            "url": "https://themes.cubiclauncher.org/src/Notstaff/Northern_Mist/V1/preview.34a29ac7.png"
+          }
+        ],
+        "injectsCss": false
+      }
+    ],
+    "latestVersion": "V1",
+    "previewUrl": "https://themes.cubiclauncher.org/src/Notstaff/Northern_Mist/V1/preview.34a29ac7.png",
+    "date": "2026-08-22T18:51:33-06:00"
+  },
+  {
     "id": "notstaff-chill",
     "slug": "notstaff-chill",
     "name": "Chill",
