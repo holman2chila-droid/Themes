@@ -1021,6 +1021,52 @@
     "date": "2026-08-22T18:51:33-06:00"
   },
   {
+    "id": "notstaff-yorha",
+    "slug": "notstaff-yorha",
+    "name": "YoRHa",
+    "author": "Notstaff",
+    "tags": [],
+    "dirPath": "src/Notstaff/YoRHa",
+    "description": "# YoRHa\n\nTema minimalista de YoRHa con un fondo ilustrado muy llamativo y una vista previa personalizada.",
+    "verified": true,
+    "versions": [
+      {
+        "version": "V1",
+        "previewUrl": "https://themes.cubiclauncher.org/src/Notstaff/YoRHa/V1/preview.92613f15.png",
+        "showcaseUrl": null,
+        "dirPath": "src/Notstaff/YoRHa/V1",
+        "date": "2026-08-23T21:00:55-06:00",
+        "changelog": null,
+        "files": [
+          {
+            "name": "Definition.toml",
+            "url": "https://raw.githubusercontent.com/CubicLauncherDevs/Themes/refs/heads/master/src/Notstaff/YoRHa/V1/Definition.toml"
+          },
+          {
+            "name": "Meta.toml",
+            "url": "https://raw.githubusercontent.com/CubicLauncherDevs/Themes/refs/heads/master/src/Notstaff/YoRHa/V1/Meta.toml"
+          },
+          {
+            "name": "bg.webp",
+            "url": "https://themes.cubiclauncher.org/src/Notstaff/YoRHa/V1/bg.70db0a0f.webp"
+          },
+          {
+            "name": "icons/preview.png",
+            "url": "https://themes.cubiclauncher.org/src/Notstaff/YoRHa/V1/icons/preview.ca07c42e.png"
+          },
+          {
+            "name": "preview.png",
+            "url": "https://themes.cubiclauncher.org/src/Notstaff/YoRHa/V1/preview.92613f15.png"
+          }
+        ],
+        "injectsCss": false
+      }
+    ],
+    "latestVersion": "V1",
+    "previewUrl": "https://themes.cubiclauncher.org/src/Notstaff/YoRHa/V1/preview.92613f15.png",
+    "date": "2026-08-23T21:00:55-06:00"
+  },
+  {
     "id": "notstaff-chill",
     "slug": "notstaff-chill",
     "name": "Chill",
