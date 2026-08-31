@@ -61,6 +61,19 @@ se modifican archivos en `src/`:
    - Preserva URLs R2 de assets que ya fueron subidos en ejecuciones anteriores.
 6. **Commit & push** los cambios (`[skip ci]` para evitar loops).
 
+## Archivo de temas — Themes Archive
+
+También existe un workflow manual **`Themes Archive Release`** en la pestaña *Actions*.
+Al ejecutarlo genera un release GitHub llamado `archive-YYYY-MM-DD-HHMM` (nunca
+"backup") que contiene un ZIP con **todos los temas y todas sus versiones**:
+
+- Reconstruye `src/` completo descargando los archivos de texto desde GitHub raw
+  y los assets binarios desde R2.
+- Adjunta `themes.json`, `packages.json`, `README.md` y `LICENSE`.
+- Verifica que el ZIP no supere los 2 GB límite de GitHub antes de publicarlo.
+
+Úsalo cuando quieras una copia comprimida completa del estado actual del repositorio.
+
 ## Assets en R2
 
 - Los binarios se suben a `https://themes.cubiclauncher.org/` con nombres hasheados
