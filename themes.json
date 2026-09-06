@@ -1855,7 +1855,7 @@
     "tags": [],
     "dirPath": "src/Toritopablo/Mina",
     "description": "# Mina\n\nTema vampírico inspirado en Mina Ha (Deadlock) para CubicLauncher.\n\n## Características\n\n- Fondo animado de murciélagos (GIF) con opacidad ajustada para no distraer.\n- Paleta gótica: negros profundos con acentos en rojo sangre (`#c8102e`) y textos color hueso.\n- Tipografías incluidas: **Cinzel** (texto general) y **UnifrakturCook** (detalles con estilo gótico/blackletter).\n- Intro animada \"MINA\" al abrir el launcher, con resplandor rojo pulsante de fondo.\n- Cursor personalizado con la mira de Mina en todo el launcher (botones, enlaces, checkboxes, etc.).\n- Glow rojo pulsante en elementos de acento y estados (éxito, error, advertencia, info) con su propia identidad de color.\n\n## Autor\n\n[Toritopablo](https://github.com/JuanPG21)\n",
-    "verified": false,
+    "verified": true,
     "versions": [
       {
         "version": "V1",
@@ -1878,12 +1878,12 @@
             "url": "https://raw.githubusercontent.com/CubicLauncherDevs/Themes/refs/heads/master/src/Toritopablo/Mina/V1/Meta.toml"
           },
           {
-            "name": "bg.gif",
-            "url": "https://themes.cubiclauncher.org/src/Toritopablo/Mina/V1/bg.f0799ec4.gif"
-          },
-          {
             "name": "changelog.md",
             "url": "https://raw.githubusercontent.com/CubicLauncherDevs/Themes/refs/heads/master/src/Toritopablo/Mina/V1/changelog.md"
+          },
+          {
+            "name": "bg.gif",
+            "url": "https://themes.cubiclauncher.org/src/Toritopablo/Mina/V1/bg.f0799ec4.gif"
           },
           {
             "name": "fonts/Cinzel.ttf",
