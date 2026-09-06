@@ -2174,6 +2174,60 @@
     "date": "2026-09-05T18:48:22-05:00"
   },
   {
+    "id": "holman-belle-delfhine",
+    "slug": "holman-belle-delfhine",
+    "name": "Waguri Theme",
+    "author": "Holman",
+    "tags": [],
+    "dirPath": "src/holman/belle_delfhine",
+    "description": "Tema Creado por Holman",
+    "verified": false,
+    "versions": [
+      {
+        "version": "V1",
+        "previewUrl": "https://themes.cubiclauncher.org/src/holman/belle_delfhine/V1/preview.5e960758.png",
+        "showcaseUrl": null,
+        "dirPath": "src/holman/belle_delfhine/V1",
+        "date": "2026-09-06T13:27:17-06:00",
+        "changelog": null,
+        "files": [
+          {
+            "name": "Definition.toml",
+            "url": "https://raw.githubusercontent.com/CubicLauncherDevs/Themes/refs/heads/master/src/holman/belle_delfhine/V1/Definition.toml"
+          },
+          {
+            "name": "Meta.toml",
+            "url": "https://raw.githubusercontent.com/CubicLauncherDevs/Themes/refs/heads/master/src/holman/belle_delfhine/V1/Meta.toml"
+          },
+          {
+            "name": "bg.png",
+            "url": "https://themes.cubiclauncher.org/src/holman/belle_delfhine/V1/bg.e832c146.png"
+          },
+          {
+            "name": "fonts/Mojang-Bold.ttf",
+            "url": "https://themes.cubiclauncher.org/src/holman/belle_delfhine/V1/fonts/Mojang-Bold.90e8f7fe.ttf"
+          },
+          {
+            "name": "fonts/Mojang-Regular.ttf",
+            "url": "https://themes.cubiclauncher.org/src/holman/belle_delfhine/V1/fonts/Mojang-Regular.babe8021.ttf"
+          },
+          {
+            "name": "fonts/minecraft_font.ttf",
+            "url": "https://themes.cubiclauncher.org/src/holman/belle_delfhine/V1/fonts/minecraft_font.df936b7e.ttf"
+          },
+          {
+            "name": "preview.png",
+            "url": "https://themes.cubiclauncher.org/src/holman/belle_delfhine/V1/preview.5e960758.png"
+          }
+        ],
+        "injectsCss": false
+      }
+    ],
+    "latestVersion": "V1",
+    "previewUrl": "https://themes.cubiclauncher.org/src/holman/belle_delfhine/V1/preview.5e960758.png",
+    "date": "2026-09-06T13:27:17-06:00"
+  },
+  {
     "id": "holman-cachorros-del-end",
     "slug": "holman-cachorros-del-end",
     "name": "Cachorros del End",
