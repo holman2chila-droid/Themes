@@ -2258,6 +2258,60 @@
     "date": "2026-09-05T19:43:51-05:00"
   },
   {
+    "id": "holman-hollow-knight-silksong",
+    "slug": "holman-hollow-knight-silksong",
+    "name": "Hollow Knight Silksong",
+    "author": "holman",
+    "tags": [],
+    "dirPath": "src/holman/hollow_knight_silksong",
+    "description": "Tema morado/magenta con tonos de noche, inspirado en Silksong, usando la tipografía Mojang para todo el texto.",
+    "verified": false,
+    "versions": [
+      {
+        "version": "V1",
+        "previewUrl": "https://themes.cubiclauncher.org/src/holman/hollow_knight_silksong/V1/preview.b6066ac1.png",
+        "showcaseUrl": null,
+        "dirPath": "src/holman/hollow_knight_silksong/V1",
+        "date": "2026-09-06T13:16:50-06:00",
+        "changelog": null,
+        "files": [
+          {
+            "name": "Definition.toml",
+            "url": "https://raw.githubusercontent.com/CubicLauncherDevs/Themes/refs/heads/master/src/holman/hollow_knight_silksong/V1/Definition.toml"
+          },
+          {
+            "name": "Inject.css",
+            "url": "https://raw.githubusercontent.com/CubicLauncherDevs/Themes/refs/heads/master/src/holman/hollow_knight_silksong/V1/Inject.css"
+          },
+          {
+            "name": "Meta.toml",
+            "url": "https://raw.githubusercontent.com/CubicLauncherDevs/Themes/refs/heads/master/src/holman/hollow_knight_silksong/V1/Meta.toml"
+          },
+          {
+            "name": "bg.png",
+            "url": "https://themes.cubiclauncher.org/src/holman/hollow_knight_silksong/V1/bg.40391972.png"
+          },
+          {
+            "name": "fonts/Mojang-Bold.ttf",
+            "url": "https://themes.cubiclauncher.org/src/holman/hollow_knight_silksong/V1/fonts/Mojang-Bold.90e8f7fe.ttf"
+          },
+          {
+            "name": "fonts/Mojang-Regular.ttf",
+            "url": "https://themes.cubiclauncher.org/src/holman/hollow_knight_silksong/V1/fonts/Mojang-Regular.babe8021.ttf"
+          },
+          {
+            "name": "preview.png",
+            "url": "https://themes.cubiclauncher.org/src/holman/hollow_knight_silksong/V1/preview.b6066ac1.png"
+          }
+        ],
+        "injectsCss": true
+      }
+    ],
+    "latestVersion": "V1",
+    "previewUrl": "https://themes.cubiclauncher.org/src/holman/hollow_knight_silksong/V1/preview.b6066ac1.png",
+    "date": "2026-09-06T13:16:50-06:00"
+  },
+  {
     "id": "holman-sweetie-fox",
     "slug": "holman-sweetie-fox",
     "name": "Sweetie Fox Minecraft",
