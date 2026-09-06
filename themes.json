@@ -1894,48 +1894,6 @@
     "date": "2026-07-24T02:34:20-04:00"
   },
   {
-    "id": "holman-belle-belphine",
-    "slug": "holman-belle-belphine",
-    "name": "Porsche_Gt3_Rs_GIF",
-    "author": "holman",
-    "tags": [],
-    "dirPath": "src/holman/Belle_belphine",
-    "description": "Tema animado del Porsche GT3 RS.",
-    "verified": true,
-    "versions": [
-      {
-        "version": "V1",
-        "previewUrl": "https://themes.cubiclauncher.org/src/holman/Belle_belphine/V1/preview.ba70b2e8.png",
-        "showcaseUrl": null,
-        "dirPath": "src/holman/Belle_belphine/V1",
-        "date": "2026-09-05T19:29:32-05:00",
-        "changelog": null,
-        "files": [
-          {
-            "name": "Definition.toml",
-            "url": "https://raw.githubusercontent.com/CubicLauncherDevs/Themes/refs/heads/master/src/holman/Belle_belphine/V1/Definition.toml"
-          },
-          {
-            "name": "Meta.toml",
-            "url": "https://raw.githubusercontent.com/CubicLauncherDevs/Themes/refs/heads/master/src/holman/Belle_belphine/V1/Meta.toml"
-          },
-          {
-            "name": "preview.png",
-            "url": "https://themes.cubiclauncher.org/src/holman/Belle_belphine/V1/preview.ba70b2e8.png"
-          },
-          {
-            "name": "bg.gif",
-            "url": "https://themes.cubiclauncher.org/src/holman/Belle_belphine/V1/bg.adf30fe1.gif"
-          }
-        ],
-        "injectsCss": false
-      }
-    ],
-    "latestVersion": "V1",
-    "previewUrl": "https://themes.cubiclauncher.org/src/holman/Belle_belphine/V1/preview.ba70b2e8.png",
-    "date": "2026-09-05T19:29:32-05:00"
-  },
-  {
     "id": "holman-gt3-rs-end",
     "slug": "holman-gt3-rs-end",
     "name": "Porsche_Gt3_Rs_GIF",
@@ -1962,12 +1920,12 @@
             "url": "https://raw.githubusercontent.com/CubicLauncherDevs/Themes/refs/heads/master/src/holman/GT3_RS_end/V1/Meta.toml"
           },
           {
-            "name": "preview.png",
-            "url": "https://themes.cubiclauncher.org/src/holman/GT3_RS_end/V1/preview.ba70b2e8.png"
-          },
-          {
             "name": "bg.gif",
             "url": "https://themes.cubiclauncher.org/src/holman/GT3_RS_end/V1/bg.adf30fe1.gif"
+          },
+          {
+            "name": "preview.png",
+            "url": "https://themes.cubiclauncher.org/src/holman/GT3_RS_end/V1/preview.ba70b2e8.png"
           }
         ],
         "injectsCss": false
@@ -2004,12 +1962,12 @@
             "url": "https://raw.githubusercontent.com/CubicLauncherDevs/Themes/refs/heads/master/src/holman/Gwen/V1/Meta.toml"
           },
           {
-            "name": "preview.png",
-            "url": "https://themes.cubiclauncher.org/src/holman/Gwen/V1/preview.9f696b6e.png"
-          },
-          {
             "name": "bg.gif",
             "url": "https://themes.cubiclauncher.org/src/holman/Gwen/V1/bg.50e09509.gif"
+          },
+          {
+            "name": "preview.png",
+            "url": "https://themes.cubiclauncher.org/src/holman/Gwen/V1/preview.9f696b6e.png"
           }
         ],
         "injectsCss": false
@@ -2050,12 +2008,12 @@
             "url": "https://raw.githubusercontent.com/CubicLauncherDevs/Themes/refs/heads/master/src/holman/Happy_birthday/V1/Meta.toml"
           },
           {
-            "name": "preview.png",
-            "url": "https://themes.cubiclauncher.org/src/holman/Happy_birthday/V1/preview.4eabf93a.png"
-          },
-          {
             "name": "bg.png",
             "url": "https://themes.cubiclauncher.org/src/holman/Happy_birthday/V1/bg.0d878f06.png"
+          },
+          {
+            "name": "preview.png",
+            "url": "https://themes.cubiclauncher.org/src/holman/Happy_birthday/V1/preview.4eabf93a.png"
           }
         ],
         "injectsCss": true
@@ -2096,12 +2054,12 @@
             "url": "https://raw.githubusercontent.com/CubicLauncherDevs/Themes/refs/heads/master/src/holman/Invincibles/V1/Meta.toml"
           },
           {
-            "name": "preview.png",
-            "url": "https://themes.cubiclauncher.org/src/holman/Invincibles/V1/preview.b11cc575.png"
-          },
-          {
             "name": "bg.gif",
             "url": "https://themes.cubiclauncher.org/src/holman/Invincibles/V1/bg.e075f533.gif"
+          },
+          {
+            "name": "preview.png",
+            "url": "https://themes.cubiclauncher.org/src/holman/Invincibles/V1/preview.b11cc575.png"
           }
         ],
         "injectsCss": true
@@ -2142,12 +2100,12 @@
             "url": "https://raw.githubusercontent.com/CubicLauncherDevs/Themes/refs/heads/master/src/holman/Starlight_kitty/V1/Meta.toml"
           },
           {
-            "name": "preview.png",
-            "url": "https://themes.cubiclauncher.org/src/holman/Starlight_kitty/V1/preview.b3cc6605.png"
-          },
-          {
             "name": "bg.png",
             "url": "https://themes.cubiclauncher.org/src/holman/Starlight_kitty/V1/bg.17bacd6f.png"
+          },
+          {
+            "name": "preview.png",
+            "url": "https://themes.cubiclauncher.org/src/holman/Starlight_kitty/V1/preview.b3cc6605.png"
           }
         ],
         "injectsCss": true
@@ -2184,12 +2142,12 @@
             "url": "https://raw.githubusercontent.com/CubicLauncherDevs/Themes/refs/heads/master/src/holman/cachorros_del_end/V1/Meta.toml"
           },
           {
-            "name": "preview.png",
-            "url": "https://themes.cubiclauncher.org/src/holman/cachorros_del_end/V1/preview.6aa3f5a1.png"
-          },
-          {
             "name": "bg.png",
             "url": "https://themes.cubiclauncher.org/src/holman/cachorros_del_end/V1/bg.90dd7aba.png"
+          },
+          {
+            "name": "preview.png",
+            "url": "https://themes.cubiclauncher.org/src/holman/cachorros_del_end/V1/preview.6aa3f5a1.png"
           }
         ],
         "injectsCss": false
@@ -2226,12 +2184,12 @@
             "url": "https://raw.githubusercontent.com/CubicLauncherDevs/Themes/refs/heads/master/src/holman/fox/V1/Meta.toml"
           },
           {
-            "name": "preview.png",
-            "url": "https://themes.cubiclauncher.org/src/holman/fox/V1/preview.c73d4879.png"
-          },
-          {
             "name": "bg.jpg",
             "url": "https://themes.cubiclauncher.org/src/holman/fox/V1/bg.3d8445c7.jpg"
+          },
+          {
+            "name": "preview.png",
+            "url": "https://themes.cubiclauncher.org/src/holman/fox/V1/preview.c73d4879.png"
           }
         ],
         "injectsCss": false
@@ -2272,12 +2230,12 @@
             "url": "https://raw.githubusercontent.com/CubicLauncherDevs/Themes/refs/heads/master/src/holman/sweetie_fox/V1/Meta.toml"
           },
           {
-            "name": "preview.png",
-            "url": "https://themes.cubiclauncher.org/src/holman/sweetie_fox/V1/preview.289e8dd5.png"
-          },
-          {
             "name": "bg.png",
             "url": "https://themes.cubiclauncher.org/src/holman/sweetie_fox/V1/bg.4faccb08.png"
+          },
+          {
+            "name": "preview.png",
+            "url": "https://themes.cubiclauncher.org/src/holman/sweetie_fox/V1/preview.289e8dd5.png"
           }
         ],
         "injectsCss": true
