@@ -207,7 +207,7 @@
     "tags": [],
     "dirPath": "src/CubicLauncher/RetroSpectrum",
     "description": "# Retro Spectrum\n\nUn tema retro para CubicLauncher con fondos en tono carbón, texto en marfil cálido, detalles en mostaza y rayas vintage en los colores del arcoíris. La tipografía monoespaciada, las esquinas definidas y las sombras desplazadas evocan la informática clásica, al tiempo que mantienen visible el fondo de pantalla original.\n\nIncluye la fuente de estilo terminal VT323, distribuida bajo la licencia SIL Open Font License 1.1 (véase fonts/OFL.txt). No es necesario instalar ninguna fuente por separado.\n",
-    "verified": false,
+    "verified": true,
     "versions": [
       {
         "version": "V1",
@@ -261,7 +261,7 @@
     "tags": [],
     "dirPath": "src/CubicLauncher/Signature Amber",
     "description": "# Signature Amber\n\nTema oscuro cálido oficial del **CubicLauncher Signature Pack**. Con tonos marrón-grisáceos y acentos ámbar, transmite una sensación acogedora y energética sin perder profesionalismo.\n\n## Características\n\n- **Paleta cálida**: fondos `#1c1917` con superficies `#292524`.\n- **Acento ámbar**: `#f59e0b` para llamar la atención sin ser agresivo.\n- **Contraste cálido**: texto `#fafaf9` con matices `#d6d3d1`.\n- **Fondo sutil**: degradado oscuro con glow ámbar.\n- **Formato v2 (TOML)**: sistema de themes recomendado.\n",
-    "verified": false,
+    "verified": true,
     "versions": [
       {
         "version": "V1",
@@ -311,7 +311,7 @@
     "tags": [],
     "dirPath": "src/CubicLauncher/Signature Classic",
     "description": "# Signature Classic\n\nTema claro oficial del **CubicLauncher Signature Pack**. Diseñado para ofrecer una experiencia limpia, moderna y legible durante el día, con acentos azules que mantienen la identidad visual de CubicLauncher.\n\n## Características\n\n- **Paleta clara y profesional**: fondos en tonos gris-azulados muy suaves.\n- **Acento azul signature**: `#2563eb` para botones, estados activos y glows.\n- **Alto contraste**: texto oscuro `#0f172a` sobre superficies claras.\n- **Fondo sutil**: degradado generado con un toque del color de acento.\n- **Formato v2 (TOML)**: aprovecha el sistema de themes recomendado por CubicLauncher.\n",
-    "verified": false,
+    "verified": true,
     "versions": [
       {
         "version": "V1",
@@ -361,7 +361,7 @@
     "tags": [],
     "dirPath": "src/CubicLauncher/Signature Dark",
     "description": "# Signature Dark\n\nTema oscuro oficial del **CubicLauncher Signature Pack**. Ideal para sesiones nocturnas, con una paleta azulada elegante y un acento vibrante que mantiene la legibilidad sin fatigar la vista.\n\n## Características\n\n- **Paleta oscura profunda**: fondos `#0f172a` y tarjetas `#1e293b`.\n- **Acento azul brillante**: `#3b82f6` para resaltar acciones principales.\n- **Contraste cuidado**: texto claro sobre superficies oscuras con estados bien diferenciados.\n- **Fondo sutil**: degradado oscuro con glow azul suave.\n- **Formato v2 (TOML)**: sistema de themes recomendado.\n",
-    "verified": false,
+    "verified": true,
     "versions": [
       {
         "version": "V1",
@@ -411,7 +411,7 @@
     "tags": [],
     "dirPath": "src/CubicLauncher/Signature Frost",
     "description": "# Signature Frost\n\nTema oscuro frío oficial del **CubicLauncher Signature Pack**. Inspirado en tonos de hielo y noche invernal, con fondos azul-petróleo y acentos cyan que dan una estética moderna e inmersiva.\n\n## Características\n\n- **Paleta fría**: fondos `#082f49` con superficies `#0c4a6e`.\n- **Acento cyan brillante**: `#22d3ee` para acciones y estados activos.\n- **Legibilidad fría**: texto `#f0f9ff` con tonos secundarios `#bae6fd`.\n- **Fondo sutil**: degradado oscuro con glow cyan.\n- **Formato v2 (TOML)**: sistema de themes recomendado.\n",
-    "verified": false,
+    "verified": true,
     "versions": [
       {
         "version": "V1",
@@ -785,7 +785,7 @@
     "tags": [],
     "dirPath": "src/Notstaff/AquaBlush",
     "description": "# Aqua Blush\n\nUn tema de CubicLauncher bonito y minimalista, inspirado en suaves tonos azul aguamarina, rosa palo y blanco luminoso. Cuenta con un fondo de anime nítido, paneles de cristal translúcidos, elementos redondeados y una interfaz limpia, diseñada para resultar agradable y fácil de leer.",
-    "verified": false,
+    "verified": true,
     "versions": [
       {
         "version": "V1",
@@ -831,7 +831,7 @@
     "tags": [],
     "dirPath": "src/Notstaff/Blur",
     "description": null,
-    "verified": false,
+    "verified": true,
     "versions": [
       {
         "version": "V1",
@@ -877,7 +877,7 @@
     "tags": [],
     "dirPath": "src/Notstaff/Clang",
     "description": "# Clang\n\nUn tema oscuro y acogedor con acentos teal, inspirado en una estética cálida y nostálgica. Los colores están extraídos del arte de fondo, creando una experiencia visual coherente y envolvente.\n\n## Características\n\n- **Paleta extraída del fondo:** Colores que armonizan perfectamente con la imagen de fondo\n- **Acento teal suave:** Detalles en tonos teal que guían la atención sin ser agresivos\n- **Animaciones sutiles:** Transiciones suaves y efectos de glow en elementos interactivos\n- **Scrollbar personalizada:** Scrollbar delgada y elegante en tonos teal\n- **Modales animados:** Transición de entrada suave para ventanas modales\n- **V2 con Inject.css:** Usa el nuevo sistema de inyección CSS para personalización avanzada\n",
-    "verified": false,
+    "verified": true,
     "versions": [
       {
         "version": "V1",
@@ -931,7 +931,7 @@
     "tags": [],
     "dirPath": "src/Notstaff/Lain Theme",
     "description": "A Lain Theme",
-    "verified": false,
+    "verified": true,
     "versions": [
       {
         "version": "V2",
@@ -1032,7 +1032,7 @@
     "tags": [],
     "dirPath": "src/Notstaff/Louise",
     "description": "# Louise\n\nUn tema claro y vibrante inspirado en Louise, construido únicamente con tonos blancos y rosados extraídos de su ilustración de fondo. La paleta es sólida, limpia y coherente, con acentos rosas vivos que resaltan sobre superficies blancas y cremosas.\n\n## Características\n\n- **Paleta blanco y rosa:** Colores tomados directamente del arte de Louise, sin tonos ajenos.\n- **Tema claro y luminoso:** Fondos blancos con tintes rosados muy suaves.\n- **Acento rosa sólido:** Detalles en `#f06292` que dan fuerza a los elementos interactivos.\n- **Fondo nítido:** Sin desenfoque (`0px`) para mostrar `bg.jpg` con total claridad.\n- **Scrollbar personalizada:** Indicador rosa vibrante sobre fondo blanco rosado.\n- **V1:** Usa `Inject.css` para eliminar el `brightness(0.4)` forzado del fondo y el `blur(12px)` del header de instancias, logrando una experiencia clara realmente limpia.\n",
-    "verified": false,
+    "verified": true,
     "versions": [
       {
         "version": "V1",
@@ -1086,7 +1086,7 @@
     "tags": [],
     "dirPath": "src/Notstaff/Northern_Mist",
     "description": "# Northern Mist\n\nUn tema minimalista y refinado inspirado en la naturaleza, con superficies en tonos salvia suaves, profundidad brumosa, contraste moderado y un estilo de interfaz de usuario flotante y coherente.",
-    "verified": false,
+    "verified": true,
     "versions": [
       {
         "version": "V1",
@@ -1128,7 +1128,7 @@
     "tags": [],
     "dirPath": "src/Notstaff/YoRHa",
     "description": "# YoRHa\n\nTema minimalista de YoRHa con un fondo ilustrado muy llamativo y una vista previa personalizada.",
-    "verified": false,
+    "verified": true,
     "versions": [
       {
         "version": "V1",
@@ -1174,7 +1174,7 @@
     "tags": [],
     "dirPath": "src/Notstaff/chill",
     "description": "# Chill\n\nUn tema relajante con tonos fríos azulados y una estética calmada. Los colores están extraídos del arte de fondo para una experiencia visual coherente y envolvente.\n\n## Características\n\n- **Paleta extraída del fondo:** Colores que armonizan perfectamente con la imagen de fondo\n- **Acento azul-cian frío:** Detalles en tonos azulados que guían la atención sin ser agresivos\n- **Fondos azul-grisáceos:** Tonos fríos en todas las superficies para una experiencia visual coherente\n- **Animaciones sutiles:** Transiciones suaves y efectos de glow en elementos interactivos\n- **Scrollbar personalizada:** Scrollbar delgada y elegante en tonos azul-cian\n- **Modales animados:** Transición de entrada suave para ventanas modales\n- **V2 con Inject.css:** Usa el nuevo sistema de inyección CSS para personalización avanzada\n",
-    "verified": false,
+    "verified": true,
     "versions": [
       {
         "version": "V1",
@@ -1228,7 +1228,7 @@
     "tags": [],
     "dirPath": "src/Notstaff/windows7",
     "description": "# Windows 7 Aero\n\nTema para CubicLauncher inspirado en la interfaz **Aero Glass de Windows 7**.\n\n## Características\n\n- Fondo clásico visible: el wallpaper de Windows 7 se muestra sin blur y al 100% de opacidad.\n- Paleta unificada: todos los colores derivan de la paleta oficial Aero de Windows 7, sin tonos azul/turquesa mezclados.\n- Estilo Aero Glass: ventanas con gradientes azul oscuro, borde cian claro y sombras coherentes.\n- Reflejo superior característico: highlight horizontal en la parte alta de la sidebar, tooltips y cards, imitando el brillo de la barra de tareas de Windows 7.\n- Sidebar tipo barra de tareas: gradiente azul oscuro con backdrop-filter y borde iluminado.\n- Botones estilo Win7: degradado con reflejo superior, sombra suave y estados hover/active.\n- Scrollbar minimalista: ancho 7px con thumb azul Aero y borde sutil.\n- Fuente Segoe UI: la tipografía original del sistema.\n- Transiciones suaves: cambios de color y pequeños desplazamientos en botones con animaciones cortas.\n- Estructura sólida: CSS basado en el tema Angel para compatibilidad con los componentes del launcher.\n",
-    "verified": false,
+    "verified": true,
     "versions": [
       {
         "version": "V1",
@@ -1274,7 +1274,7 @@
     "tags": [],
     "dirPath": "src/Santiagolxx/Angel",
     "description": "An Angel.",
-    "verified": false,
+    "verified": true,
     "versions": [
       {
         "version": "V1",
@@ -1328,7 +1328,7 @@
     "tags": [],
     "dirPath": "src/Santiagolxx/Engel",
     "description": "0xFF",
-    "verified": false,
+    "verified": true,
     "versions": [
       {
         "version": "V1",
@@ -1382,7 +1382,7 @@
     "tags": [],
     "dirPath": "src/Santiagolxx/Gengar",
     "description": null,
-    "verified": false,
+    "verified": true,
     "versions": [
       {
         "version": "V1",
@@ -1436,7 +1436,7 @@
     "tags": [],
     "dirPath": "src/Santiagolxx/LaRoja",
     "description": "Tema inspirado en la Federación de Futbol de Chile (FFCh)",
-    "verified": false,
+    "verified": true,
     "versions": [
       {
         "version": "v1",
@@ -1486,7 +1486,7 @@
     "tags": [],
     "dirPath": "src/Santiagolxx/Lain",
     "description": "Let's all love Lain",
-    "verified": false,
+    "verified": true,
     "versions": [
       {
         "version": "V2",
@@ -1579,7 +1579,7 @@
     "tags": [],
     "dirPath": "src/Santiagolxx/Marron",
     "description": null,
-    "verified": false,
+    "verified": true,
     "versions": [
       {
         "version": "V1",
@@ -1625,7 +1625,7 @@
     "tags": [],
     "dirPath": "src/Santiagolxx/Moon",
     "description": null,
-    "verified": false,
+    "verified": true,
     "versions": [
       {
         "version": "V1",
@@ -1671,7 +1671,7 @@
     "tags": [],
     "dirPath": "src/Santiagolxx/Rei",
     "description": null,
-    "verified": false,
+    "verified": true,
     "versions": [
       {
         "version": "V1",
@@ -1717,7 +1717,7 @@
     "tags": [],
     "dirPath": "src/Santiagolxx/Running",
     "description": null,
-    "verified": false,
+    "verified": true,
     "versions": [
       {
         "version": "V1",
@@ -1763,7 +1763,7 @@
     "tags": [],
     "dirPath": "src/Santiagolxx/WorldCupAFA",
     "description": "Tema inspirado en la Asociacion del Futbol Argentino (AFA)",
-    "verified": false,
+    "verified": true,
     "versions": [
       {
         "version": "v1",
@@ -1813,7 +1813,7 @@
     "tags": [],
     "dirPath": "src/Santiagolxx/Yuuki",
     "description": "A Theme",
-    "verified": false,
+    "verified": true,
     "versions": [
       {
         "version": "V1",
