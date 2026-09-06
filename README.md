@@ -17,6 +17,7 @@ src/
         Showcase.png        ← opcional, screenshot del autor
         changelog.md        ← opcional
       theme.md
+      vflag.txt             ← opcional, verifica el theme completo (Solo agregado por el staff)
 ```
 
 Cada tema vive bajo `src/Author/Theme/` con subcarpetas versionadas (`V1`, `V2`, ...).
@@ -34,6 +35,19 @@ Cada tema vive bajo `src/Author/Theme/` con subcarpetas versionadas (`V1`, `V2`,
 6. Hacé commit y push a `master`.
 
 El CI se encarga del resto automáticamente.
+
+## Verificación de themes
+
+El catálogo `themes.json` marca un theme con `verified: true` únicamente si existe
+un archivo llamado exactamente `vflag.txt` en `src/Author/Theme/`, junto a
+`theme.md`. Puede estar vacío: su contenido no se lee.
+
+La verificación aplica al theme completo. Un directorio llamado `vflag.txt` o un
+archivo dentro de `V1`, `V2`, etc. no lo verifica. Sin el archivo, o al eliminarlo,
+el catálogo se genera con `verified: false`.
+
+Agregar o quitar únicamente este flag actualiza el catálogo sin regenerar
+previews ni subir o eliminar assets en R2.
 
 ## ¿Cómo agregar solo un `Showcase.png` a un theme existente?
 
@@ -63,7 +77,7 @@ se modifican archivos en `src/`:
 
 ## Archivo de temas — Themes Archive
 
-También existe un workflow manual **`Themes Archive Release`** en la pestaña *Actions*.
+También existe un workflow manual **`Themes Archive Release`** en la pestaña _Actions_.
 Al ejecutarlo genera un release GitHub llamado `archive-YYYY-MM-DD-HHMM` (nunca
 "backup") que contiene un ZIP con **todos los temas y todas sus versiones**:
 
